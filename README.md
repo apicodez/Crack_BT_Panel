@@ -12,7 +12,7 @@
 <code>wget --no-check-certificate -qO crack_bt_panel_pro.sh https://git.io/JRPUb && bash crack_bt_panel_pro.sh</code>
 
 ## 卸载
-<code>wget --no-check-certificate -qO uninstall.sh https://git.io/JeuIm && bash uninstall.sh</code>
+<code>wget --no-check-certificate -qO uninstall.sh https://git.io/JRPTt && bash uninstall.sh</code>
 
 ## 更新日志
 - 更新 php 安装器，注意：<b>当你同时需要安装 Nginx 和 php 这两个组件时，必须先安装 php，再安装 Nginx，如果顺序装反，会导致 php 安装失败</b>；
